@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there, I'm MNFiT3 👋
 
-<!--
-**MNFiT3/MNFiT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I'm passionate about coding and building useful applications
+- 🌱 I'm constantly learning and improving my skills
+- 💬 Ask me about anything tech-related!
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MNFiT3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MNFiT3&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MNFiT3&layout=compact&theme=radical)
+
+## Contribution Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MNFiT3&theme=dracula)
+
+## Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MNFiT3&theme=radical)
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=MNFiT3&color=brightgreen)
+
+## Connect with Me
+
